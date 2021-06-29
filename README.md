@@ -1,4 +1,4 @@
-hi, i'm mirai, a 16yo french student learning development (c, c++, c# and python), reverse engineering, nintendo consoles homebrew, emulation stuff etc...
+hi, i'm mirai, a 16yo french student learning development (c, c++ and python) and discord bot development (latest project: ![Neodymium](https://github.com/neodymiumdev)).
 
 contacts:
 - **discord: mirai#0001**
