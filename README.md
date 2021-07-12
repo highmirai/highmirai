@@ -1,4 +1,4 @@
-hi, i'm mirai, a 16yo french student learning discord bot development and rom translation.
+hi, i'm mirai, a 16yo french student learning development, especially about discord bots and torrenting.
 
 contacts:
 - **discord: mirai#0001**
